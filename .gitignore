@@ -175,3 +175,12 @@ cython_debug/
 
 
 automl_khvm_model.joblib
+base_model_0.pkl
+base_model_1.pkl
+base_model_2.pkl
+base_model_3.pkl
+test_meta.npy
+train_meta.npy
+y_train_encoded.npy
+
+catboost_info
